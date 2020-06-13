@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
         <h1>Hamza Liaqat</h1>
-      <p>PIAIC Student of AI, CNC and Blockchain Batch 4 faislabad</p>
+        <h3>Aampir pinger is great teacher</h3>
+      <p>PIAIC Student of AI, CNC, Blockchain Batch 4 faislabad</p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
